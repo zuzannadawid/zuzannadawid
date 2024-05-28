@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-📊Junior Data Analyst<br>👩‍🎓🔄 Big Data<br>👩‍🎓✅ Quantitative methods in economics
+📊Data Analyst<br>👩‍🎓🔄 Big Data<br>👩‍🎓✅ Quantitative methods in economics
 
 
 ## 🌐 Socials:
